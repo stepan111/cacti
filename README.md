@@ -11,3 +11,7 @@ Now added the following graphs:
 - Forks and Clones - This graph count procces creation
 - Softirq - Amount of time cpu spent on softirq handling
 - Swap usage - swap in and out data (pspwpin & pswpout from /proc/vmstat)
+- I/O Operations - Count of comleted reads&writes at all disks
+- Disks Operations Completed - Completed reads and writes operations
+- Disks Operations Time Spent - Time that reads and writes elapsed 
+- Network Stack - COmmon Counters for network stack
